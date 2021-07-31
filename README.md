@@ -50,10 +50,10 @@ git push origin [branch_name]
 # Deploy Simple-Portfolio on Netlify
 
 ## Click on below button to deploy it on Netlify
-[![Netlify Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/CyberBoyAyush/JS-Portfolio)
+[![Netlify Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sampathsir/JS-Portfolio)
 
 # Deploy JS-Portfolio on Vercel
-[![Deploy with Vercel](https://vercel.co/button)](https://vercel.co/new/project?template=https://github.com/cyberboyayush/JS-Portfolio)
+[![Deploy with Vercel](https://vercel.co/button)](https://vercel.co/new/project?template=https://github.com/sampathsir/JS-Portfolio)
 
 # Credits:
 - [Aryan Vikash](https://github.com/aryanvikash/aryanvikash.com) bhai for his wonderful portfolio repo. (This repo is clone of his repo only but added more Language section and easy to deploy options with a good documented readme.) All code credits goes to him.
