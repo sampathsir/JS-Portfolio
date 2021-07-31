@@ -34,7 +34,7 @@ export default function footer() {
 
           <li className="list-inline-item">
             <a
-              href={"https://linkedin.com/in/cyberboyayush"}
+              href={"https://linkedin.com/in/ABHI_VILAN"}
               className="btn-floating btn-tw mx-1"
             >
               <img
@@ -47,7 +47,7 @@ export default function footer() {
 
           <li className="list-inline-item">
             <a
-              href={"https://twitter.com/cyberboyayush"}
+              href={"https://twitter.com/ABHI_VILAN"}
               className="btn-floating btn-tw mx-1"
             >
               <img
@@ -93,7 +93,7 @@ export default function footer() {
               alt="love"
             />
           </i>{" "}
-          By @CyberBoyAyush
+          By @ABHI_VILAN
         </div>
       </footer>
     </div>
